@@ -1,2 +1,2 @@
 # ReVou-HTML-CSS
-Repositori HTML CSS yang dipelajari dari ReVour
+Repositori HTML CSS yang dipelajari dari ReVou
